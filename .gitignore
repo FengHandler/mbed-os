@@ -75,3 +75,4 @@ cscope.*
 *.swp
 *~
 
+./mbedenv
